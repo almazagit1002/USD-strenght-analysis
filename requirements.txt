@@ -1,0 +1,12 @@
+pandas
+matplotlib
+python-dotenv
+pyyaml
+mkdocs
+mkdocs-material
+mkdocs-autorefs 
+mkdocstrings 
+mkdocstrings-python
+pymdown-extensions
+seaborn
+yfinance
