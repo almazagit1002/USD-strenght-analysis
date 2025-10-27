@@ -10,3 +10,11 @@ mkdocstrings-python
 pymdown-extensions
 seaborn
 yfinance
+plotly
+kaleido
+boto3
+pyarrow
+fastparquet
+pandas_datareader
+setuptools
+pyyaml

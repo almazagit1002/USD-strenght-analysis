@@ -1,0 +1,31 @@
+Ticker,Name,Exchange,Sector,Industry,Market_Cap,Currency,Region,Country
+SPY,SPDR S&P 500 ETF Trust,NYSE,Financial,ETF,547.8B,USD,North America,United States
+QQQ,Invesco QQQ Trust,NASDAQ,Financial,ETF,298.6B,USD,North America,United States
+AAPL,Apple Inc.,NASDAQ,Technology,Consumer Electronics,3.1T,USD,North America,United States
+MSFT,Microsoft Corporation,NASDAQ,Technology,Software,3.2T,USD,North America,United States
+AMZN,Amazon.com Inc.,NASDAQ,Consumer Cyclical,Internet Retail,1.8T,USD,North America,United States
+NVDA,NVIDIA Corporation,NASDAQ,Technology,Semiconductors,2.5T,USD,North America,United States
+GOOGL,Alphabet Inc.,NASDAQ,Communication Services,Internet Content & Information,1.9T,USD,North America,United States
+META,Meta Platforms Inc.,NASDAQ,Communication Services,Internet Content & Information,1.2T,USD,North America,United States
+TSLA,Tesla Inc.,NASDAQ,Consumer Cyclical,Auto Manufacturers,780B,USD,North America,United States
+FTSE,FTSE 100 Index,LSE,Financial,Index,NA,GBP,Europe,United Kingdom
+DAX,DAX Performance-Index,XETR,Financial,Index,NA,EUR,Europe,Germany
+CAC,CAC 40 Index,EURONEXT,Financial,Index,NA,EUR,Europe,France
+NIKKEI,Nikkei 225,JPX,Financial,Index,NA,JPY,Asia,Japan
+HSI,Hang Seng Index,HKEX,Financial,Index,NA,HKD,Asia,Hong Kong
+SSE,Shanghai Composite Index,SSE,Financial,Index,NA,CNY,Asia,China
+ASX200,S&P/ASX 200,ASX,Financial,Index,NA,AUD,Oceania,Australia
+IBOV,Bovespa Index,B3,Financial,Index,NA,BRL,South America,Brazil
+SENSEX,S&P BSE SENSEX,BSE,Financial,Index,NA,INR,Asia,India
+EURUSD=X,EUR/USD,FOREX,Currency,Exchange Rate,NA,USD,Global,Global
+GBPUSD=X,GBP/USD,FOREX,Currency,Exchange Rate,NA,USD,Global,Global
+USDJPY=X,USD/JPY,FOREX,Currency,Exchange Rate,NA,JPY,Global,Global
+USDCNH=X,USD/CNH,FOREX,Currency,Exchange Rate,NA,CNH,Global,Global
+GC=F,Gold Futures,COMEX,Commodities,Precious Metals,NA,USD,Global,Global
+CL=F,Crude Oil Futures,NYMEX,Commodities,Energy,NA,USD,Global,Global
+BTC-USD,Bitcoin USD,CRYPTO,Cryptocurrency,Digital Asset,2.1T,USD,Global,Global
+ETH-USD,Ethereum USD,CRYPTO,Cryptocurrency,Digital Asset,430B,USD,Global,Global
+VFIAX,Vanguard 500 Index Fund,MUTF,Financial,Mutual Fund,867B,USD,North America,United States
+VTSAX,Vanguard Total Stock Market Index Fund,MUTF,Financial,Mutual Fund,1.4T,USD,North America,United States
+TLT,iShares 20+ Year Treasury Bond ETF,NASDAQ,Financial,ETF,46B,USD,North America,United States
+TNX,CBOE 10-Year Treasury Note Yield,INDEX,Bonds,Government Bonds,NA,Percentage,Global,United States

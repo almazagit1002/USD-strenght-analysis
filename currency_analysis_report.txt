@@ -1,0 +1,67 @@
+============================================================
+CURRENCY ANALYSIS REPORT
+============================================================
+Analysis Period: 2022-05-27 to 2025-05-23
+Number of Trading Days: 774
+Currencies Analyzed: 8
+
+PERFORMANCE SUMMARY
+------------------------------
+USD Index:
+  Total Return:   -1.79%
+  Volatility:      7.07%
+  Sharpe Ratio:   -0.05
+  Max Drawdown:  -11.90%
+
+EUR/USD:
+  Total Return:   +5.87%
+  Volatility:      8.10%
+  Sharpe Ratio:    0.27
+  Max Drawdown:  -10.97%
+
+GBP/USD:
+  Total Return:   +7.16%
+  Volatility:      9.22%
+  Sharpe Ratio:    0.29
+  Max Drawdown:  -15.60%
+
+USD/JPY:
+  Total Return:  +12.09%
+  Volatility:     10.86%
+  Sharpe Ratio:    0.40
+  Max Drawdown:  -14.82%
+
+USD/CAD:
+  Total Return:   +7.88%
+  Volatility:      6.40%
+  Sharpe Ratio:    0.42
+  Max Drawdown:   -5.57%
+
+USD/SEK:
+  Total Return:   -3.08%
+  Volatility:     11.55%
+  Sharpe Ratio:   -0.03
+  Max Drawdown:  -16.24%
+
+USD/CHF:
+  Total Return:  -14.27%
+  Volatility:      8.67%
+  Sharpe Ratio:   -0.54
+  Max Drawdown:  -20.26%
+
+DXY_Calculated:
+  Total Return:   -2.52%
+  Volatility:      7.51%
+  Sharpe Ratio:   -0.07
+  Max Drawdown:  -13.83%
+
+CORRELATION ANALYSIS
+------------------------------
+Average Correlation: 0.049
+
+Highest Correlations:
+  USD Index vs DXY_Calculated: +0.978
+  EUR/USD vs DXY_Calculated: -0.946
+  GBP/USD vs USD/CHF: -0.894
+  EUR/USD vs GBP/USD: +0.875
+  USD Index vs EUR/USD: -0.873

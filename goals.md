@@ -7,8 +7,9 @@ This document outlines the development goals for our dollar strength analysis sy
 ## Enhanced Data Analysis
 
 1. **Incorporate more currency pairs**
-   - Add major forex pairs like EUR/USD, GBP/USD, USD/JPY
-   - Track dollar performance against individual currencies
+   - Add major forex pairs like EUR/USD, GBP/USD, USD/JPY DONE
+   - Track dollar performance against individual currencies DONE
+   - perform operation to see how it changes evry monyh over a period, like 6-9 months
    - Calculate weighted averages based on trading volumes
 
 2. **Include commodity correlations**

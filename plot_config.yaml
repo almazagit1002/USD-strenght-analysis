@@ -1,0 +1,7 @@
+ax_labels: 16
+tick_label: 14
+title: 20
+legend: 14
+figsize: [14, 10]
+heatmap_fig_size: [12, 10]
+heatmap_font_size: 10
